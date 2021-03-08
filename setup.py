@@ -13,5 +13,5 @@ setup(
     },
     packages = find_packages(),
     python_requires = '>3',
-    install_requires = [r.strip() for r in open("requirements.txt").readlines()]
+    install_requires = ['intelhex', 'pyserial'],
 )
