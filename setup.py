@@ -2,14 +2,12 @@
 
 from setuptools import setup, find_packages
 
-name = "pyupdi"
-author = "mraardvark"
-url = "https://github.com/%s/%s" % (author, name)
+name = "pyupdi-tomaz"
 
 setup(
     name = name,
-    author = author,
-    url = url,
+    version = '1.0.0',
+    url = 'https://github.com/avian2/pyupdi',
     entry_points = {
         'console_scripts': ['pyupdi=updi:_main'],
     },
