@@ -1,4 +1,7 @@
-# pyupdi
+# pyupdi (modified fork)
+
+*Note: This fork of pyupdi has been modified by Tomaz Solc. Please use the original at https://github.com/mraardvark/pyupdi*
+
 Python UPDI driver for programming "new" tinyAVR and megaAVR devices
 
 pyupdi is a Python utility for programming AVR devices with UPDI interface
