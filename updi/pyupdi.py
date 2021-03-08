@@ -7,7 +7,7 @@ import argparse
 import re
 import logging
 
-from device.device import Device
+from updi.device import Device
 from updi.nvm import UpdiNvmProgrammer
 """
 Copyright (c) 2016 Atmel Corporation, a wholly owned subsidiary of Microchip Technology Inc.
